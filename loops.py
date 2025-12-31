@@ -16,7 +16,7 @@ while User>=20:
     elif gender.lower()=='female':
         print(f'{name},you are a lady please do some make up to attract boys')
     else:
-        print('WE DONT KNOW UR GENDER .FUCK THIS IS GAYSM')
+        print('WE DONT KNOW YOUR GENDER .')
     break
 
 for item in name:
